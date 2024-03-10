@@ -13,6 +13,9 @@
 ## Objective:
 This project aimed to analyze pizza sales data and create interactive dashboards to provide actionable insights for our client, enhancing their decision-making processes and driving business growth.
 
+![Dashboard](https://github.com/gxuraav/Data-Analyst-Portfolio-Project/assets/129260997/72ad2361-225d-40da-91a9-45351c4f76ab)
+
+
 ## Approach:
 Utilizing a combination of MS SQL Server and Excel, we followed a structured approach to data management, analysis, and dashboard creation:
 
